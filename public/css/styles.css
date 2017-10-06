@@ -1,0 +1,7 @@
+#playlist ul{
+    list-style: none;
+}
+#playlist ul li a{
+    color:black;
+    text-decoration: none;
+}
